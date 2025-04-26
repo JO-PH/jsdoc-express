@@ -1,0 +1,11 @@
+### VisualStudioCode ###
+.vscode/
+
+### Mac Finder files ###
+.DS_Store
+
+### outputted JSDoc files ###
+doc/
+
+### installed node packages ###
+node_modules/
