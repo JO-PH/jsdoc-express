@@ -1,6 +1,6 @@
 {
     "name": "jsdoc-express",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "JSDoc plugin to document express router files.",
     "type": "module",
     "main": "index.js",
